@@ -1,2 +1,3 @@
 # scripts
-Simple scripts to help deploy or configure Virtual Machines for automation
+Simple scripts to help deploy or configure Virtual Machines for automation.
+Mostley stolen content.
